@@ -1,2 +1,3 @@
 # mathmechgo
-Development Repo for Math Mechanics Library
+Development Repository for Math Mechanics Library
+
