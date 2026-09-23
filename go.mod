@@ -1,0 +1,5 @@
+module github.com/Arenero73/mathmechgo
+
+go 1.27.0
+
+require github.com/MikeAustin71/errpref v1.7.1 // indirect
